@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "name": "Naruto UZUMAKI",
+        "photo": "Images\/Naruto.gif",
+        "characteristics": "Demon renard"
+    },
+    {
+        "id": "2",
+        "name": "Sasuke UCHIHA",
+        "photo": "Images\/Sasuke.gif",
+        "characteristics": "Sharingan"
+    },
+    {
+        "id": "3",
+        "name": "Hinata HYUGA",
+        "photo": "Images\/Hinata.gif",
+        "characteristics": "Byakugan"
+    },
+    {
+        "id": null,
+        "name": "Saitama",
+        "photo": "Images\/ONE.gif",
+        "characteristics": "One Punch"
+    }
+
+]
